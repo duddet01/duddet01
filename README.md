@@ -1,4 +1,4 @@
-Hi, I’m Chinmoy 👋   
+Hi, I’m Chinmoy Saikia👋   
 
 BS-MS student at IISER Pune    
 
