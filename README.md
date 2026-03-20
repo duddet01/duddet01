@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Chinmoy 👋   
 
-<!--
-**duddet01/duddet01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS-MS student at IISER Pune    
 
-Here are some ideas to get you started:
+I’m interested in computational neuroscience, statistical physics, and complex systems.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on problems related to neuronal polarization, neurite formation, and Ising-like models and Molecular Dynamics. 
+
+I enjoy building simulations, exploring theoretical models, and connecting physics with biology.  
+
+🔬 Areas: Computational Neuroscience | Statistical Physics | Biophysics   
+💻 Tools: Python, Fortran, Numerical Methods  
+📊 Focus: Modeling, simulations, and data-driven insights
