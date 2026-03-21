@@ -14,3 +14,5 @@ Have experimented with academic style video creation (on optical stretcher): htt
 🔬 Areas: Computational Neuroscience | Statistical Physics | Biophysics   
 💻 Tools: Python, Fortran, Numerical Methods  
 📊 Focus: Modeling, simulations, and data-driven insights
+
+Contact: chinmoy.saikia@students.iiserpune.ac.in
